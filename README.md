@@ -15,7 +15,8 @@ We analyze 7,200 GPT-4 Turbo generated stories about life rituals (birth, weddin
 
 **Published in:** Proceedings of the Eighth AAAI/ACM Conference on AI, Ethics, and Society (AIES 2025)
 
-📄 [Read the paper](https://ojs.aaai.org/index.php/AIES/article/view/36718)
+📄 [Read the paper](https://ojs.aaai.org/index.php/AIES/article/view/36718) 
+
 [Extended version] (https://arxiv.org/abs/2508.03712)
 
 
